@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pertemuan 3</string>
+    <string name="deskription_menu">deskripsi</string>
+    <string name="cenil">cenil</string>
+    <string name="ingredients">ingredients</string>
+    <string name="Resep">resep</string>
+    <string name="price">price</string>
+    <string name="Harga_Cenil">harga</string>
+    <string name="saran_menu">saran</string>
+</resources>
