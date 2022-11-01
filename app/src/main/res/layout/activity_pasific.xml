@@ -26,6 +26,7 @@
                     android:contentDescription="TODO"
                     android:scaleType="fitXY"
                     app:srcCompat="@drawable/pasific" />
+
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
